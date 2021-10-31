@@ -718,12 +718,12 @@
   "buffers": [
     {
       "byteLength": 9591072,
-      "uri": "scene.bin"
+      "uri": "https://github.com/april-leung/Trial/blob/4546ef0afedf644b6a81c04003acad7e9ffecad3/typewriter/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/keyboard_baseColor.jpeg"
+      "uri": "https://github.com/april-leung/Trial/blob/4546ef0afedf644b6a81c04003acad7e9ffecad3/typewriter/textures/keyboard_baseColor.jpeg"
     }
   ],
   "materials": [
