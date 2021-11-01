@@ -3395,7 +3395,7 @@
   "buffers": [
     {
       "byteLength": 885992,
-      "uri": "scene.bin"
+      "uri": "https://github.com/april-leung/Trial/blob/98145471a3c5e94923a7c36711fe19ea674a80a5/house/scene.bin"
     }
   ],
   "extensionsUsed": [
@@ -3403,40 +3403,40 @@
   ],
   "images": [
     {
-      "uri": "textures/Window_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/Window_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/RoofMoss_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/RoofMoss_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/WoodPlanks_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/WoodPlanks_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/House_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/House_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/GrassALPHA_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/GrassALPHA_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/WoodFence_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/WoodFence_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/BigRock_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/BigRock_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/BrichTree_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/BrichTree_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/TreeLeafs_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/TreeLeafs_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/Ground_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/Ground_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/Animals_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/Animals_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/Plane_baseColor.png"
+      "uri": "https://github.com/april-leung/Trial/blob/main/house/textures/Plane_baseColor.png?raw=true"
     }
   ],
   "materials": [
